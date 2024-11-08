@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Upasana Bhatia
 - 👀 I’m interested in Full Stack Developer and Software Engineering
-- 🌱 I’m currently learning AWS
+- 🌱 I’m currently building different projects from scratch 
 - 💞️ I’m looking to collaborate on open source proejects
 - 📫 How to reach me upasanabhatia7387@gmail.com
 - 😄 Pronouns: She/Her
